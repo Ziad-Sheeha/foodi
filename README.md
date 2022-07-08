@@ -41,12 +41,12 @@ sudo git clone https://github.com/codewithsadee/foodie.git
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/foodie.git
+git clone https://github.com/Ziad-Sheeha
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter]([https://www.twitter.com/codewithsadee](https://www.linkedin.com/in/sheeha-ph/)).
+If you want to contact with me you can reach me at [Twitter]((https://www.linkedin.com/in/sheeha-ph/)).
 
 ### License
 
